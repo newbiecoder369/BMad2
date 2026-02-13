@@ -1,0 +1,49 @@
+installation:
+  version: 6.0.0-Beta.8
+  installDate: 2026-02-13T23:41:20.378Z
+  lastUpdated: 2026-02-13T23:41:20.378Z
+modules:
+  - name: core
+    version: 6.0.0-Beta.8
+    installDate: 2026-02-13T23:41:19.193Z
+    lastUpdated: 2026-02-13T23:41:19.193Z
+    source: built-in
+    npmPackage: null
+    repoUrl: null
+  - name: bmm
+    version: 6.0.0-Beta.8
+    installDate: 2026-02-13T23:41:09.041Z
+    lastUpdated: 2026-02-13T23:41:19.193Z
+    source: built-in
+    npmPackage: null
+    repoUrl: null
+  - name: bmb
+    version: 0.1.6
+    installDate: 2026-02-13T23:41:11.337Z
+    lastUpdated: 2026-02-13T23:41:19.498Z
+    source: external
+    npmPackage: bmad-builder
+    repoUrl: https://github.com/bmad-code-org/bmad-builder
+  - name: cis
+    version: 0.1.6
+    installDate: 2026-02-13T23:41:14.248Z
+    lastUpdated: 2026-02-13T23:41:19.788Z
+    source: external
+    npmPackage: bmad-creative-intelligence-suite
+    repoUrl: https://github.com/bmad-code-org/bmad-module-creative-intelligence-suite
+  - name: gds
+    version: 0.1.7
+    installDate: 2026-02-13T23:41:17.078Z
+    lastUpdated: 2026-02-13T23:41:20.073Z
+    source: external
+    npmPackage: bmad-game-dev-studio
+    repoUrl: https://github.com/bmad-code-org/bmad-module-game-dev-studio.git
+  - name: tea
+    version: 1.0.0
+    installDate: 2026-02-13T23:41:19.102Z
+    lastUpdated: 2026-02-13T23:41:20.378Z
+    source: external
+    npmPackage: bmad-method-test-architecture-enterprise
+    repoUrl: https://github.com/bmad-code-org/bmad-method-test-architecture-enterprise
+ides:
+  - claude-code
